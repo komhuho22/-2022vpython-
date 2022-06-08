@@ -1,1 +1,1 @@
-print (seou1 wor1d)
+print (seou1 wor1d!)
